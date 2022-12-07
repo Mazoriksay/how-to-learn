@@ -56,10 +56,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/resources/__logo-1/resources__logo-1.css);
-@import url(../blocks/resources/__logo-2/resources__logo-2.css);
-@import url(../blocks/resources/__logo-3/resources__logo-3.css);
-@import url(../blocks/resources/__logo-4/resources__logo-4.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
